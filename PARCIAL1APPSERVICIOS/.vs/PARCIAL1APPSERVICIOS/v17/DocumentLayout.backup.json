@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\controllers\\computadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:controllers\\computadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\clases\\clscomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:clases\\clscomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\models\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:models\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\models\\itm.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:models\\itm.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|c:\\users\\usuario\\documents\\parcial1\\parcial1appservicios\\models\\itm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D1836035-EF78-4E03-AF0F-4C3B9F53A5EC}|PARCIAL1APPSERVICIOS.csproj|solutionrelative:models\\itm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\Computador.cs",
+              "RelativeDocumentMoniker": "Models\\Computador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\Computador.cs",
+              "RelativeToolTip": "Models\\Computador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:51:28.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:12:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Controllers\\ComputadoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComputadoresController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Controllers\\ComputadoresController.cs",
+              "RelativeToolTip": "Controllers\\ComputadoresController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:48:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsComputador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Clases\\ClsComputador.cs",
+              "RelativeDocumentMoniker": "Clases\\ClsComputador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Clases\\ClsComputador.cs",
+              "RelativeToolTip": "Clases\\ClsComputador.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:53:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:46:45.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITM.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\ITM.Context.cs",
+              "RelativeDocumentMoniker": "Models\\ITM.Context.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\ITM.Context.cs",
+              "RelativeToolTip": "Models\\ITM.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:39:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITM.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\ITM.edmx",
+              "RelativeDocumentMoniker": "Models\\ITM.edmx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PARCIAL1\\PARCIAL1APPSERVICIOS\\Models\\ITM.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\ITM.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-13T16:36:09.964Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
