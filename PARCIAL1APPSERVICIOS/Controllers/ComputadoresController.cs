@@ -54,11 +54,10 @@ namespace PARCIAL1APPSERVICIOS.Controllers
         // DELETE: Eliminar un computador por id_computador
         [HttpDelete]
         [Route("Eliminar")]
-        public string Eliminar([FromBody] Computador computador)
+        public string Eliminar(int id_computador)
         {
             ClsComputador objComputador = new ClsComputador();
-            objComputador.computador = computador;
-            return objComputador.Eliminar();
+            return objComputador.Eliminar(id_computador);
         }
     }
 }

@@ -54,11 +54,11 @@ namespace PARCIAL1APPSERVICIOS.Clases
 		{
 			return itm.Computadors.FirstOrDefault(c => c.id_computador == id_computador);
 		}
-		public string Eliminar()
+		public string Eliminar(int id_computador)
 		{
 			try
 			{
-				Computador comp = Consultar(computador.id_computador);
+				Computador comp = Consultar(id_computador);
 				if (comp == null)
 				{
 					return "El computador correspondiente no existe, por tal motivo no se puede Eliminar";
